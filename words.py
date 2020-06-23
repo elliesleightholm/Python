@@ -1,0 +1,17 @@
+word_list = [
+    'wares',
+    'soup',
+    'mount',
+    'extend',
+    'brown',
+    'expert',
+    'tired',
+    'hello',
+    'cheese',
+    'food',
+    'carrot',
+    'apple',
+    'rabbit',
+    'orange',
+    'names',
+]
