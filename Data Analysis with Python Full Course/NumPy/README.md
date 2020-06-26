@@ -11,3 +11,6 @@ In this folder we explore the benefits of NumPy as well as it's capabilities. Ac
 - Size of Objects in Memory
 - Large Lists 
 - Useful NumPy Functions
+
+Exercises:
+- Dataframe and Series Exercises
